@@ -28,7 +28,7 @@ $(function(){
       series: [{
         name: '二进熵',
         type: 'line',
-        sm0oth:true,
+        smooth:true,
         data:yData
       }]  
   };
